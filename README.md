@@ -6,7 +6,7 @@ How to use @PaniniJ version 0.0.1
 These are the overall steps to setting up an @PaniniJ project in eclipse:
 
 1. Create a project using JRE 1.8
-2. Download the at-panini-j-0.0.1-SNAPSHOT.jar
+2. Download the at-paninij-0.0.1-SNAPSHOT.jar
 3. Enable annotation processing
 4. Add at-paninij annotation processor to your build
 5. Add the at-paninij as a referenced library
@@ -19,7 +19,7 @@ When you create a new project, be sure to choose JRE 1.8, this is necessary for 
 ![alt tag](http://dec1512.sd.ece.iastate.edu/src/img/example/fig1.png)
 
 
-### 2. Download the at-panini-j-0.0.1-SNAPSHOT.jar
+### 2. Download the at-paninij-0.0.1-SNAPSHOT.jar
 
 Download the JAR from  http://dec1512.sd.ece.iastate.edu/src/snapshot/at-paninij-0.0.1-SNAPSHOT.jar.
 
