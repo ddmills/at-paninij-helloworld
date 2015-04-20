@@ -37,7 +37,7 @@ Once you hit `Apply`, Eclipse will inform you that a rebuild on the project is r
 
 ### 4. Add at-paninij annotation processor
 
-Navigate to the `Factory Path` section of the project properties. It is beneath the `Annotation Processing` option. Check the `Enable project specific settings` checkbox, and click the `Add External JARs...` option.
+Navigate to the `Factory Path` section of the project properties. It is beneath the `Annotation Processing` option. Check the `Enable project specific settings` checkbox, and click the `Add External JARs...` button.
 
 ![enable project specific settings](http://dec1512.sd.ece.iastate.edu/src/img/example/fig4.png)
 
