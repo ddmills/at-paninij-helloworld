@@ -4,8 +4,8 @@ import org.paninij.lang.Capsule;
 import org.paninij.lang.Child;
 
 @Capsule
-public class HelloWorldTemplate
-{
+public class HelloWorldTemplate {
+
     @Child Console c;
     @Child Greeter g;
 

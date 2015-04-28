@@ -6,6 +6,7 @@ import org.paninij.lang.Wired;
 
 @Capsule
 public class GreeterTemplate {
+
     String message;
     @Wired Stream s;
 
