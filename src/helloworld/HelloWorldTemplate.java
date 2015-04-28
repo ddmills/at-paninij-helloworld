@@ -3,8 +3,7 @@ package helloworld;
 import org.paninij.lang.Capsule;
 import org.paninij.lang.Child;
 
-@Capsule
-public class HelloWorldTemplate {
+@Capsule class HelloWorldTemplate {
 
     @Child Console c;
     @Child Greeter g;

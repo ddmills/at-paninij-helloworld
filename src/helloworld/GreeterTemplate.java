@@ -1,22 +1,20 @@
 package helloworld;
 
 import org.paninij.lang.Capsule;
-import org.paninij.lang.String;
 import org.paninij.lang.Wired;
 
-@Capsule
-public class GreeterTemplate {
+@Capsule class GreeterTemplate {
 
     String message;
     @Wired Stream s;
 
     void init() {
-        message = new String("Hello World!");
+        message = "Hello World!";
     }
 
     public void greet() {
-        s.write(new String("Panini: " + message));
+        s.write("Panini: " + message);
         long time = System.currentTimeMillis();
-        s.write(new String("Time is now: " + time));
+        s.write("Time is now: " + time);
     }
 }
