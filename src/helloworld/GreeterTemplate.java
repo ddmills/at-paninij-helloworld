@@ -5,15 +5,15 @@ import org.paninij.lang.Wired;
 
 @Capsule class GreeterTemplate {
 
-    String message;
+    String greeting;
     @Wired Stream s;
 
     void init() {
-        message = "Hello World!";
+        greeting = "Hello World!";
     }
 
     public void greet() {
-        s.write("Panini: " + message);
+        s.write("Panini: " + greeting);
         long time = System.currentTimeMillis();
         s.write("Time is now: " + time);
     }

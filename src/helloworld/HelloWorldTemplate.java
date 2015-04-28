@@ -14,5 +14,7 @@ import org.paninij.lang.Child;
 
     void run() {
         g.greet();
+        g.greet();
+        g.greet();
     }
 }
