@@ -1,7 +1,5 @@
 package helloworld;
 
-import helloworld.Stream;
-
 import org.paninij.lang.Capsule;
 import org.paninij.lang.String;
 import org.paninij.lang.Wired;
