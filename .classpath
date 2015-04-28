@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/dmill_000/Desktop/at-paninij-0.0.1-SNAPSHOT.jar"/>
-	<classpathentry kind="src" path=".apt_generated">
+	<classpathentry kind="src" path="apt_generated">
 		<attributes>
 			<attribute name="optional" value="true"/>
 		</attributes>
